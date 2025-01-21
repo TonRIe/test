@@ -1,0 +1,44 @@
+[
+  {
+    "key": "dnspod,Tencent",
+    "ISPname": "腾讯 DNSPOD",
+    "ISPlogo": "https://s1.18bit.cn/help/img/isp/dnspod.png",
+    "ISPurl": "https://wwww.dnspod.cn",
+    "Ad": "0",
+    "Speed": "0",
+    "Privacy": "0",
+    "Save": "0",
+    "Intercept": "0",
+    "NSFW": "0",
+    "Search": "0",
+    "OnIpv6": "1"
+  },
+  {
+    "key": "移动,中国移动,China Mobile",
+    "ISPname": "中国移动",
+    "ISPlogo": "https://s1.18bit.cn/help/img/isp/dnspod.png",
+    "ISPurl": "https://wwww.dnspod.cn",
+    "Ad": "0",
+    "Speed": "0",
+    "Privacy": "0",
+    "Save": "0",
+    "Intercept": "0",
+    "NSFW": "0",
+    "Search": "1",
+    "OnIpv6": "1"
+  },
+  {
+    "key": "Google International,google cloud,Google",
+    "ISPname": "Google DNS",
+    "ISPlogo": "https://s1.18bit.cn/help/img/isp/dnspod.png",
+    "ISPurl": "https://wwww.dnspod.cn",
+    "Ad": "0",
+    "Speed": "0",
+    "Privacy": "0",
+    "Save": "0",
+    "Intercept": "0",
+    "NSFW": "0",
+    "Search": "0",
+    "OnIpv6": "1"
+  }
+]
